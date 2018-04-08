@@ -19,5 +19,5 @@
         freak:borderRadius="20dp"
         freak:src="@mipmap/timg"
         freak:type="round" />
-<!-- 第一次提交测试-->
+<!-- 第一次提交测试  -->
 </LinearLayout>
